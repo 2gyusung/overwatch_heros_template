@@ -2,4 +2,4 @@
 ```
 https://2gyusung.github.io/overwatch_heros_template/build/
 ```
-<img src='../images/page.PNG'>
+<img src='./images/page.PNG'>
